@@ -1,0 +1,52 @@
+*Assignment 3-part 2 Submission by
+	1) Rahul Sharnagat (11305R013)	
+	2) Pushpak Burange (113056001)
+
+*Report : http://www.cse.iitb.ac.in/~rdsharnagat/graphics/assignment/32/report.html
+
+Car Controls:
+Move Forward: UP
+Move Back:DOWN
+Left Turn:LEFT
+Right Turn:RIGHT
+Open Left Door:q
+Close Left Door:w
+Open Right Door:a
+Close Right Door:s
+Left windshield Up:e
+Left Windshield down:d
+Right windshield Up:r
+Right Windshield down:f
+Open Bonet:y
+CloseBonet:h
+Open Trunk:t
+Close Trunk:g
+
+Camera Controls:
+Look Up: UP
+Look Down: DOWN
+Look Left: LEFT
+Look Right: RIGHT
+Move Up: w
+Move Down: s
+Move Left: a
+Move Right: d
+
+
+Env Lights On/Off:p
+HeadLights:On/Off.
+Enalble/Disable Camera Controls: c
+
+Four Cameras present
+Camera 1:1
+Camera 2:2
+Camera 3:3
+Camera 4:4
+
+Camera Recording:
+Start/Stop recording : z 
+Continue recording : x
+Record frame : v 
+Play movie: b
+Stop movie: n
+Change frameRate : m
